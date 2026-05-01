@@ -18,9 +18,9 @@ HTML  •  CSS  •  JavaScript  •  React  •  Git  •  APIs  •  Responsiv
 
 2. A clean to-do app (with real-time updates)
 
-3. Mobile app experiments using React Native
+3. Akan Name Generator (Get to know your very own Akan name)
 
-4. Simple fun tools that solve small everyday problems
+
 
 ## 🌱 Currently Growing
 1. JavaScript confidence (💪)
