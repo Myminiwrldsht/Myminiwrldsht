@@ -15,7 +15,7 @@
 - 🧠 Learning web & mobile dev step-by-step
 - 🌐 Interested in HTML, CSS, JavaScript, React, and React Native
 - 📱 Dreaming of building apps that feel magical & meaningful
-- ✍️ Also love creativity, design, and making things feel ✨just right✨vv
+- ✍️ Also love creativity, design, and making things feel ✨just right✨
 
 
 ## 🧠 My Focus Areas
