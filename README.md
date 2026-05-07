@@ -6,25 +6,25 @@
   </a>
 </p>
 
-## 📌 About Me
+##  About Me
 - I'm a passionate and curious developer-in-the-making from Kenya 🇰🇪.
 - I recently completed SheCodes Basics and now I'm on a journey to build stunning websites and powerful mobile apps. Currently, i'm a student at [Moringa School](https://moringaschool.com/) pursuing Software Engineering.
 
   
  ##Currently, i am:
-- 🧠 Learning web & mobile dev step-by-step
-- 🌐 Interested in HTML, CSS, JavaScript, React, and React Native
-- 📱 Dreaming of building apps that feel magical & meaningful
-- ✍️ Also love creativity, design, and making things feel ✨just right✨
+-  Learning web & mobile dev step-by-step
+-  Interested in HTML, CSS, JavaScript, React, and React Native
+-  Dreaming of building apps that feel magical & meaningful
+-  Also love creativity, design, and making things feel ✨just right✨
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - Full-Stack Development
 - Data Engineering
 - Software Testing/QA (SDET)
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Myminiwrldsht">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Myminiwrldsht&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Myminiwrldsht's GitHub Stats" />
@@ -91,7 +91,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="mailto:lakeishamaya46@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
