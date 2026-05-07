@@ -11,7 +11,7 @@
 - I recently completed SheCodes Basics and now I'm on a journey to build stunning websites and powerful mobile apps. Currently, i'm a student at [Moringa School](https://moringaschool.com/) pursuing Software Engineering.
 
   
- ##Currently, i am:
+ ## Currently, i am:
 -  Learning web & mobile dev step-by-step
 -  Interested in HTML, CSS, JavaScript, React, and React Native
 -  Dreaming of building apps that feel magical & meaningful
